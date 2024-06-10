@@ -7,16 +7,44 @@
     <string name="PassP">Escribe tu contraseña</string>
     <string name="Iniciar">Iniciar sesión</string>
     <string name="Planetas">Planetas</string>
+    <string name="SS">Sistema Solar</string>
+
+    <string name="DesSS">El sistema solar tiene ocho planetas: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno.
+        Y hay cinco planetas enanos reconocidos oficialmente en nuestro sistema solar: Ceres, Plutón, Haumea, Makemake y Eris.</string>
+
     <string name="Mer">Mercurio</string>
-    <string name="DescMer">Además de ser el planeta más cercano al Sol, Mercurio es también el más pequeño del sistema solar. Al igual que la Tierra, Venus y Marte, es un planeta terrestre o rocoso.</string>
-    <string name="InfMer"></string>
+    <string name="InfMer">Al igual que la Tierra, Venus y Marte, es un planeta terrestre o rocoso.</string>
+    <string name="InfMer2">El planeta más pequeño de nuestro sistema solar y más cercano al Sol, Mercurio es solo un poco más grande que la Luna de la Tierra. Desde la superficie de Mercurio, el Sol parecería más de tres veces más grande que cuando se ve desde la Tierra, y la luz solar sería hasta siete veces más brillante.</string>
+
     <string name="Ven">Venus</string>
+    <string name="InfVen">Es el segundo planeta desde el Sol, y el vecino planetario más cercano de la Tierra.</string>
+    <string name="InfVen2">Es el planeta más popular de nuestro sistema solar, y a veces se le llama gemelo de la Tierra por su parecido, pero su temperatura y sus condiciones atmosféricas son radicalmente diferentes e incompatibles con la vida..</string>
+
     <string name="Tierra">Tierra</string>
+    <string name="InfT">Tierra – nuestro planeta natal – es el tercer planeta desde el Sol, y el quinto planeta más grande.</string>
+    <string name="InfT2">La Tierra es el único mundo en nuestro sistema solar con agua líquida en la superficie y es el único lugar que conocemos habitado por seres vivos.</string>
+
     <string name="Mar">Marte</string>
+    <string name="InfMar">Es un mundo polvoriento, frío y desértico con una atmósfera muy delgada.</string>
+    <string name="InfMar2">Este planeta dinámico tiene estaciones, casquetes polares, volcanes extintos, cañones y clima. Recientemente, se ha descubierto que también contó en algún momento con agua en estado líquido. Cuenta con dos satélites: Fobos y Deimos. </string>
+
     <string name="Jup">Júpiter</string>
+    <string name="InfJup">Es el primero de los planetas exteriores, también conocidos como planetas gaseosos. </string>
+    <string name="InfJup2">Es el planeta más grande de nuestro sistema solar – si fuera un caparazón hueco, 1,000 Tierras podrían caber dentro. También es el planeta más antiguo, formándose a partir del polvo y los gases que quedaron de la formación del Sol hace 4.500 millones de años.</string>
+
     <string name="Sat">Saturno</string>
+    <string name="InfSat">Saturno es el sexto planeta desde el Sol, y el segundo planeta más grande de nuestro sistema solar.</string>
+    <string name="InfSat2"> Es también un gigante gaseoso, y está rodeado por un espectacular sistema de anillos y tiene docenas de lunas.</string>
+
     <string name="Ur">Urano</string>
+    <string name="InfUr">Es el séptimo planeta desde el Sol, y tiene el tercer diámetro más grande de planetas en el sistema solar.</string>
+    <string name="InfUr2">Es un gigante gaseoso pero, a diferencia de Júpiter y Saturno, que están formados mayormente por helio e hidrógeno, Urano está compuesto principalmente por agua congelada, metano y amoniaco. También, Urano parece girar de lado.</string>
+
     <string name="Nep">Neptuno</string>
-    <string name="Plut">Plutón</string>
+    <string name="InfNep">Neptuno es el octavo y más distante planeta de nuestro sistema solar.</string>
+    <string name="InfNep2">Oscuro, frío y azotado por vientos supersónicos, el gigante de hielo Neptuno está más de 30 veces más lejos del Sol que la Tierra. Es el menor de los cuatro gigantes gaseosos</string>
+
+    <string name="Plut">Planetas enanos</string>
+    <string name="InfPlut">Más allá de Neptuno podemos encontrar varios planetas enanos, como Plutón, que hasta el año 2006 se consideraba el noveno planeta del sistema solar. Pero también están Haumea, Makemake y Eris. Existe, además, un planeta enano entre las órbitas de Marte y Júpiter: Ceres.</string>
 
 </resources>

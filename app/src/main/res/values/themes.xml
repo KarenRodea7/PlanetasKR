@@ -29,15 +29,16 @@
 
     <style name="Entrada">
         <item name="android:textSize">30sp</item>
+        <item name="android:layout_gravity">center</item>
     </style>
 
     <style name="Descripciones">
         <item name="android:textSize">20dp</item>
         <item name="android:textColor">#ffff</item>
-        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_gravity">center</item>
     </style>
     <style name="Titulos">
-        <item name="android:textSize">25dp</item>
+        <item name="android:textSize">30sp</item>
         <item name="android:textColor">#7283E4</item>
     </style>
 
