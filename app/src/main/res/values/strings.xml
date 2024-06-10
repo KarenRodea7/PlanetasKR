@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PlanetasKR</string>
+    <string name="Bienvenido">¡Bienvenido!</string>
+    <string name="Usuario">Usuario:</string>
+    <string name="Pass">Contraseña:</string>
+    <string name="UsuarioP">Escribe tu usuario</string>
+    <string name="PassP">Escribe tu contraseña</string>
+    <string name="Iniciar">Iniciar sesión</string>
+    <string name="Planetas">Planetas</string>
+    <string name="Mer">Mercurio</string>
+    <string name="DescMer">Además de ser el planeta más cercano al Sol, Mercurio es también el más pequeño del sistema solar. Al igual que la Tierra, Venus y Marte, es un planeta terrestre o rocoso.</string>
+    <string name="InfMer"></string>
+    <string name="Ven">Venus</string>
+    <string name="Tierra">Tierra</string>
+    <string name="Mar">Marte</string>
+    <string name="Jup">Júpiter</string>
+    <string name="Sat">Saturno</string>
+    <string name="Ur">Urano</string>
+    <string name="Nep">Neptuno</string>
+    <string name="Plut">Plutón</string>
+
+</resources>
