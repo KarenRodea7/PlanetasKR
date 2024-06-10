@@ -21,7 +21,8 @@
         <ListView
             android:id="@+id/ListaP"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="25dp"/>
     </LinearLayout>
 
 </RelativeLayout>
