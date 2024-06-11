@@ -13,9 +13,13 @@
         android:theme="@style/Theme.PlanetasKR"
         tools:targetApi="31">
         <activity
-            android:name=".Informacion"
+            android:name=".Planetas"
             android:exported="false"
             android:theme="@style/Lista"/>
+        <activity
+            android:name=".Informacion"
+            android:exported="false"
+            android:theme="@style/Lista" />
         <activity
             android:name=".ListaPlanetas"
             android:exported="false"

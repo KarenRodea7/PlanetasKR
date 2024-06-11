@@ -17,14 +17,12 @@
     </style>
 
     <style name="Lista" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:background">#1E162C</item>
         <item name="android:orientation">vertical</item>
         <item name="android:textColor">#ffff</item>
         <item name="android:textSize">20dp</item>
-        <item name="android:textAlignment">inherit</item>
-
     </style>
 
     <style name="Entrada">
@@ -63,5 +61,12 @@
         <item name="android:textColorHint">#7CFFFFFF</item>
         <item name="android:textStyle">normal</item>
         <item name="android:inputType">textPassword</item>
+    </style>
+    <style name="ButtonInf">
+        <item name="android:text">@string/Conocer</item>
+        <item name="backgroundTint">#5E74F3</item>
+        <item name="android:textColor">#CAF3FA</item>
+        <item name="android:textSize">17dp</item>
+        <item name="android:textStyle">italic</item>
     </style>
 </resources>

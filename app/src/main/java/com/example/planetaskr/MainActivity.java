@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 if(sum<3){
                     sum = sum + 1;
 
-                    Intent intent = new Intent(getApplicationContext(), ListaPlanetas.class);
+                    Intent intent = new Intent(getApplicationContext(), Informacion.class);
                     String datos = user.getText().toString();
                     String contr = pass.getText().toString();
 
