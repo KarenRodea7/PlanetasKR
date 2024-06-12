@@ -9,6 +9,8 @@
     <string name="Planetas">Planetas</string>
     <string name="SS">Sistema Solar</string>
     <string name="Conocer">Conocer más...</string>
+    <string name="Datos">Datos generales</string>
+    <string name="Menu">Menú</string>
 
     <string name="DesSS">El sistema solar tiene ocho planetas: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno.
         Y hay cinco planetas enanos reconocidos oficialmente en nuestro sistema solar: Ceres, Plutón, Haumea, Makemake y Eris.</string>
@@ -17,43 +19,53 @@
     <string name="DescM">Es el planeta más cercano al Sol y también el más pequeño del sistema solar.</string>
     <string name="InfMer">Al igual que la Tierra, Venus y Marte, es un planeta terrestre o rocoso.</string>
     <string name="InfMer2">Mercurio es solo un poco más grande que la Luna de la Tierra. Desde la superficie de Mercurio, el Sol parecería más de tres veces más grande que cuando se ve desde la Tierra, y la luz solar sería hasta siete veces más brillante.</string>
+    <string name="DatosMer">Diámetro ecuatorial: 4,879 km \nDistancia al Sol: 59.7 millones de km\nPeriodo de rotación: 59 días\nPeriodo de traslación: 88 días</string>
 
     <string name="Ven">Venus</string>
     <string name="DescV">Es el planeta más parecido a la Tierra en cuanto a tamaño, composición y masa.</string>
     <string name="InfVen">Es el segundo planeta desde el Sol, y el vecino planetario más cercano de la Tierra.</string>
     <string name="InfVen2">Es el planeta más popular de nuestro sistema solar, y a veces se le llama gemelo de la Tierra por su parecido, pero su temperatura y sus condiciones atmosféricas son radicalmente diferentes e incompatibles con la vida..</string>
+    <string name="DatosVen">Diámetro ecuatorial: 12,104 km\nDistancia al Sol: 108 millones de km\nPeriodo de rotación: 243 días\nPeriodo de traslación: 225 días</string>
 
     <string name="Tierra">Tierra</string>
     <string name="DescT">Es el mayor de los planetas rocosos del sistema solar.</string>
     <string name="InfT">Tierra – nuestro planeta natal – es el tercer planeta desde el Sol.</string>
     <string name="InfT2">Es el quinto planeta más grande. Una de sus características es que cuenta con su propio satélite, la Luna. La Tierra es el único mundo en nuestro sistema solar con agua líquida en la superficie y es el único lugar que conocemos habitado por seres vivos.</string>
+    <string name="DatosTi">Diámetro ecuatorial: 12,756 km\nDistancia al Sol: 150 millones de km\nPeriodo de rotación: 24 horas\nPeriodo de traslación: 365 días</string>
 
     <string name="Mar">Marte</string>
     <string name="DescMa">El planeta rojo es el segundo menor del sistema solar.</string>
     <string name="InfMar">Cuenta con dos satélites: Fobos y Deimos. Es un mundo polvoriento, frío y desértico con una atmósfera muy delgada.</string>
     <string name="InfMar2">Este planeta dinámico tiene estaciones, casquetes polares, volcanes extintos, cañones y clima. Recientemente, se ha descubierto que también contó en algún momento con agua en estado líquido. Cuenta con dos satélites: Fobos y Deimos. </string>
+    <string name="DatosMar">Diámetro ecuatorial: 6,792 km\nDistancia al Sol: 228 millones de km\nPeriodo de rotación: 1.03 días\nPeriodo de traslación: 1.88 años</string>
 
     <string name="Jup">Júpiter</string>
     <string name="DescJ">Se trata del primero de los planetas exteriores, también conocidos como planetas gaseosos.</string>
     <string name="InfJup">Es el mayor planeta y el segundo mayor cuerpo celeste del sistema solar. </string>
     <string name="InfJup2">Es el planeta más grande de nuestro sistema solar – si fuera un caparazón hueco, 1,000 Tierras podrían caber dentro. También es el planeta más antiguo, formándose a partir del polvo y los gases que quedaron de la formación del Sol hace 4.500 millones de años.</string>
+    <string name="DatosJup">Diámetro ecuatorial: 142,984 km\nDistancia al Sol: 778 millones de km\nPeriodo de rotación: 9 hrs, 55 min.\nPeriodo de traslación: 11.9 años</string>
 
     <string name="Sat">Saturno</string>
     <string name="DescS">Es el único planeta con un sistema de anillos que podemos ver desde la Tierra.</string>
     <string name="InfSat">Es el sexto planeta desde el Sol, y el segundo planeta más grande del sistema solar.</string>
     <string name="InfSat2"> Es también un gigante gaseoso, y está rodeado por un espectacular sistema de anillos y tiene docenas de lunas por lo que probablemente es el planeta que cuenta con más satélites..</string>
+    <string name="DatosSat">Diámetro ecuatorial: 120,536 km\nDistancia al Sol: 1,400 millones de km\nPeriodo de rotación: 10 hrs, 39 min.\nPeriodo de traslación: 29 años</string>
 
     <string name="Ur">Urano</string>
     <string name="DescU">Es un gigante gaseoso y está compuesto principalmente por agua congelada, metano y amoniaco.</string>
     <string name="InfUr">Es el séptimo planeta desde el Sol, y parece girar de lado.</string>
     <string name="InfUr2">Tiene el tercer diámetro más grande de planetas en el sistema solar. Es un gigante gaseoso pero, a diferencia de Júpiter y Saturno, que están formados mayormente por helio e hidrógeno, Urano está compuesto principalmente por agua congelada, metano y amoniaco.</string>
+    <string name="DatosUr">Diámetro ecuatorial: 51,118 km\nDistancia al Sol: 2,900 millones de km\nPeriodo de rotación: 17 hrs, 14 min.\nPeriodo de traslación: 84 años</string>
 
     <string name="Nep">Neptuno</string>
     <string name="DescN">Se trata del planeta más alejado del Sol, y por ello es también el más frío.</string>
     <string name="InfNep">Es el octavo y más distante planeta de nuestro sistema solar.</string>
     <string name="InfNep2">Oscuro, frío y azotado por vientos supersónicos, el gigante de hielo Neptuno está más de 30 veces más lejos del Sol que la Tierra. Es el menor de los cuatro gigantes gaseosos</string>
+    <string name="DatosNep">Diámetro ecuatorial: 49,528 km\nDistancia al Sol: 4,500 millones de km\nPeriodo de rotación: 16 hrs, 6 min.\nPeriodo de traslación: 165 años </string>
 
     <string name="Plut">Planetas enanos</string>
     <string name="InfPlut">Más allá de Neptuno podemos encontrar varios planetas enanos, como Plutón, que hasta el año 2006 se consideraba el noveno planeta del sistema solar. Pero también están Haumea, Makemake y Eris. Existe, además, un planeta enano entre las órbitas de Marte y Júpiter: Ceres.</string>
+    <string name="Enanos">Ceres \nEl planeta enano Ceres es el objeto más grande en el cinturón de asteroides entre Marte y Júpiter, y es el único planeta enano ubicado en el sistema solar interior.\n\nPlutón \nDespués del descubrimiento de mundos intrigantes similares en lo profundo del Cinturón de Kuiper, pequeño Plutón fue reclasificado como planeta enano en 2006 por la Unión Astronómica Internacional.\n\nHaumea \nTiene forma ovalada y es uno de los objetos grandes que giran más rápido en nuestro sistema solar. El giro rápido distorsiona la forma de Haumea, haciendo que este planeta enano parezca una pelota de fútbol.</string>
+    <string name="Enanos2">Makemake \nMakemake es un poco más pequeño que Plutón, y es el segundo objeto más brillante en el Cinturón de Kuiper visto desde la Tierra, mientras que Plutón es el más brillante. \n\nEris \nEl descubrimiento de Eris ayudó a desencadenar un debate en la comunidad científica que condujo a la decisión de la Unión Astronómica Internacional en 2006 de aclarar la definición de planeta. Plutón, Eris y otros objetos similares ahora están clasificados como planetas enanos.</string>
 
 </resources>

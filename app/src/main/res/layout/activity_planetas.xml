@@ -7,9 +7,12 @@
     android:layout_height="match_parent"
     tools:context=".Planetas">
 
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:paddingEnd="15dp"
         android:paddingStart="15dp"
         android:layout_marginTop="15dp"
@@ -32,19 +35,43 @@
             android:id="@+id/Des"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="15dp"/>
+            android:layout_marginTop="15dp"
+            style="@style/Descripciones"/>
         <TextView
             android:id="@+id/Des2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="15dp"/>
+            android:layout_marginTop="15dp"
+            style="@style/Descripciones"/>
         <TextView
             android:id="@+id/Des3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="15dp"/>
+            android:layout_marginTop="15dp"
+            style="@style/Descripciones"/>
+        <TextView
+            android:id="@+id/Sub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            style="@style/Subt"/>
+        <TextView
+            android:id="@+id/Des4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            style="@style/Descripciones"/>
+        <Button
+            android:id="@+id/Menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Menu"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="25dp"
+            style="@style/ButtonInf"/>
 
     </LinearLayout>
+    </ScrollView>
 
 
 </RelativeLayout>
